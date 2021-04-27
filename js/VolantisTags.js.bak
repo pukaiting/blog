@@ -30,12 +30,12 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     $('[rel="icon"]').attr('href', "/funny.ico");
-    document.title = 'ヽ(●-`Д´-)ノ你要走了嘛我好伤心！';
+    document.title = 'ヽ(●-`Д´-)ノ你要走嘛我好伤心！';
     clearTimeout(titleTime);
   }
   else {
     $('[rel="icon"]').attr('href', "/favicon.ico");
-    document.title = '(Ő∀Ő3)ノ哇喔！欢迎小可爱！' + OriginTitle;
+    document.title = '(Ő∀Ő3)ノ哇喔！欢迎！' + OriginTitle;
     titleTime = setTimeout(function () {
       document.title = OriginTitle;
     }, 2000);
@@ -44,7 +44,7 @@ document.addEventListener('visibilitychange', function () {
 
 // 设置页脚博主会动的心
 
-$('.copyright').html('©2021 <i id="heartbeat" class="fa fa-heartbeat"></i> By 一只小开Ting')
+$('.copyright').html('©2020 <i id="heartbeat" class="fa fa-heartbeat"></i> By 远方有你伴余生')
 
 
 // 添加八毛卡通人物

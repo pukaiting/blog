@@ -7,7 +7,7 @@ function bot_ui_ini(){
   let botui=new BotUI("hello-mashiro");
   botui.message.add({delay:800,content:"Hi, there"})
     .then(function(){
-      botui.message.add({delay:1100,content:"这里是一只小开Tingの个人介绍"})
+      botui.message.add({delay:1100,content:"这里是远方有你伴余生の个人介绍"})
         .then(function(){
           botui.message.add({delay:1100,content:"一个励志成为架构师的前端攻城狮"})
             .then(function(){
