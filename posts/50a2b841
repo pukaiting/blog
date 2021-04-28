@@ -360,7 +360,7 @@ if (autoChangeMode === '1') {
           </div>
 
 <h2 id="metingjs"><a href="#metingjs" class="headerlink" title="metingjs"></a>metingjs</h2>
-    <div id="aplayer-JiJrKkuR" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-EoskKAGX" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="621465725" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86" data-listfolded="true" data-fixed="true" data-mini="true"
     ></div>
 
@@ -484,7 +484,7 @@ if ('Valinex' === 'Gitalk' || !true) {
     loadGitalk()
   }
 }</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script src="js/VolantisTags.js"></script><script src="js/volantis.js"></script><script src="/js/third-party/activate-power-mode.js"></script><script>POWERMODE.colorful = true;
-POWERMODE.shake = true;
+POWERMODE.shake = false;
 document.body.addEventListener('input', POWERMODE);
 </script><script src="/js/third-party/ClickShowText.js" async="async"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
   'title',

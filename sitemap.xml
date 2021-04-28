@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>bbs/index.html</loc>
+    <loc>music/index.html</loc>
     
     <lastmod>2021-04-27</lastmod>
     
   </url>
   
   <url>
-    <loc>music/index.html</loc>
+    <loc>bbs/index.html</loc>
     
     <lastmod>2021-04-27</lastmod>
     
@@ -44,14 +44,14 @@
   </url>
   
   <url>
-    <loc>about/index.html</loc>
+    <loc>shuoshuo/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>shuoshuo/index.html</loc>
+    <loc>about/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
@@ -81,7 +81,7 @@
 
   <url>
     <loc>localhost:4000</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
