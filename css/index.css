@@ -2430,6 +2430,11 @@ blockquote footer cite:before {
     margin-right: 15px;
   }
 }
+@media screen and (max-width: 768px) {
+  #aside_content {
+    display: none;
+  }
+}
 #calendar a {
   text-decoration: none;
 }
