@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>photo/index.html</loc>
+    
+    <lastmod>2021-05-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>%E7%9B%98%E9%BE%99%E6%B1%9F/index.html</loc>
+    
+    <lastmod>2021-05-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>%E9%9A%8F%E6%8B%8D/index.html</loc>
     
     <lastmod>2021-05-03</lastmod>
@@ -9,21 +23,7 @@
   </url>
   
   <url>
-    <loc>%E5%B3%A8%E7%9C%89%E5%B1%B1/index.html</loc>
-    
-    <lastmod>2021-05-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>%E4%BA%91%E5%8D%97/index.html</loc>
-    
-    <lastmod>2021-05-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>photo/index.html</loc>
     
     <lastmod>2021-05-03</lastmod>
     
@@ -95,7 +95,7 @@
 
   <url>
     <loc>localhost:4000</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,7 +103,7 @@
   
   <url>
     <loc>tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2021-05-04</lastmod>
+    <lastmod>2021-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

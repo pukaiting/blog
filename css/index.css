@@ -2391,9 +2391,6 @@ blockquote footer cite:before {
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
 }
-#aside_content .card-categories .card-category-list > .parent + .child {
-  display: none;
-}
 #aside_content .card-webinfo .webinfo {
   padding: 0.2rem 1rem;
 }
@@ -2428,11 +2425,6 @@ blockquote footer cite:before {
 @media screen and (min-width: 900px) {
   #aside_content .card-widget {
     margin-right: 15px;
-  }
-}
-@media screen and (max-width: 768px) {
-  #aside_content {
-    display: none;
   }
 }
 #calendar a {
