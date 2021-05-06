@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>posts/812dcfd2</loc>
+    <loc>video/index.html</loc>
     
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-06</lastmod>
     
   </url>
   
   <url>
     <loc>photo/index.html</loc>
+    
+    <lastmod>2021-05-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>bbs/index.html</loc>
+    
+    <lastmod>2021-05-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>posts/812dcfd2</loc>
     
     <lastmod>2021-05-05</lastmod>
     
@@ -40,20 +54,6 @@
     <loc>music/index.html</loc>
     
     <lastmod>2021-04-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>video/index.html</loc>
-    
-    <lastmod>2021-04-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>bbs/index.html</loc>
-    
-    <lastmod>2021-04-27</lastmod>
     
   </url>
   
