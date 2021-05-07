@@ -143,7 +143,7 @@ window.addEventListener('load',endLoading)</script><div class="js-pjax"><script>
 
 function loadValinex () {
   let guestInfo = requestSetting(['nick','mail','link'],'昵称,邮箱,主页')
-  let requiredFields = requestSetting(['nick','mail','link'],'nick,mail')
+  let requiredFields = requestSetting(['nick','mail','link'],'nick')
   let friends = ''.split(',')
   let master = ''.split(',')
   let tagMeta = '博主,小伙伴,访客'.split(',')
@@ -167,7 +167,7 @@ function loadValinex () {
       master: master,
       friends: friends,
       tagMeta: tagMeta,
-      metaPlaceholder: {"nick":"昵称/QQ号(必填)","mail":"邮箱(必填)","link":"网址(https://)"}
+      metaPlaceholder: {"nick":"昵称/QQ号(必填)"}
     });
   }
 
