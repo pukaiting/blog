@@ -172,8 +172,8 @@ window.addEventListener('load',endLoading)</script><div class="js-pjax"><script>
 }
 
 function loadValinex () {
-  let guestInfo = requestSetting(['nick','mail','link'],'昵称,主页')
-  let requiredFields = requestSetting(['nick','mail','link'],'nick')
+  let guestInfo = requestSetting(['nick','mail','link'],'昵称,邮箱,主页')
+  let requiredFields = requestSetting(['nick','mail','link'],'nick,mail')
   let friends = ''.split(',')
   let master = ''.split(',')
   let tagMeta = '博主,小伙伴,访客'.split(',')
