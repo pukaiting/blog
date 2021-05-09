@@ -145,7 +145,7 @@ function loadValinex () {
   let guestInfo = requestSetting(['nick','mail','link'],'昵称,邮箱,主页')
   let requiredFields = requestSetting(['nick','mail','link'],'nick,mail')
   let friends = ''.split(',')
-  let master = ''.split(',')
+  let master = '58bc3a8cecadf26a676e1b8f217698bc'.split(',')
   let tagMeta = '博主,小伙伴,访客'.split(',')
 
   function initValinex () {
@@ -167,7 +167,7 @@ function loadValinex () {
       master: master,
       friends: friends,
       tagMeta: tagMeta,
-      metaPlaceholder: {"nick":"昵称/QQ号(必填)"}
+      metaPlaceholder: {"nick":"昵称/QQ号(必填)","mail":"邮箱","link":"网址(https://)"}
     });
   }
 
