@@ -4,9 +4,22 @@
   
     
     <entry>
+      <title>测试文章</title>
+      <link href="/p/7a6a6b5a.html"/>
+      <url>/p/7a6a6b5a.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>村上春树</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>你好，欢迎</title>
-      <link href="/post/index/"/>
-      <url>/post/index/</url>
+      <link href="/p/812dcfd2.html"/>
+      <url>/p/812dcfd2.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><div class="note red"><p>这里是一只小开Ting的个人博客，目前这里还什么都没有。</p></div><div class="tip success faa-pulse animated"><p>正在加紧建设中..</p>          </div><div class="tip success faa-wrench animated"><p>我晃啊晃晃晃晃。</p>          </div>]]></content>
       
