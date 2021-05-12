@@ -34,6 +34,10 @@
     
     
     
+    <category term="测试" scheme="tags/测试/"/>
+    
+    <category term="测试标签" scheme="tags/测试标签/"/>
+    
   </entry>
   
   <entry>
@@ -53,6 +57,16 @@
     
     
     
+    <category term="心情" scheme="categories/心情/"/>
+    
+    <category term="日常" scheme="categories/心情/日常/"/>
+    
+    
+    <category term="你好" scheme="tags/你好/"/>
+    
+    <category term="风景" scheme="tags/风景/"/>
+    
+    <category term="相片" scheme="tags/相片/"/>
     
   </entry>
   
