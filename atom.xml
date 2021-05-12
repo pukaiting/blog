@@ -23,7 +23,7 @@
     <published>2021-05-11T07:31:24.000Z</published>
     <updated>2021-05-11T07:31:24.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>村上春树</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>村上春树</p><div class="note red"><p>这里是一只小开Ting的个人博客，目前这里还什么都没有。</p></div><div class="tip success faa-pulse animated"><p>正在加紧建设中..</p>          </div><div class="tip success faa-wrench animated"><p>我晃啊晃晃晃晃。</p>          </div>]]></content>
     
     
     <summary type="html">描述测试</summary>
@@ -34,6 +34,32 @@
     
     
     <category term="标签测试" scheme="tags/标签测试/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好，欢迎</title>
+    <link href="2021/05/06/812dcfd2.html"/>
+    <id>2021/05/06/812dcfd2.html</id>
+    <published>2021-05-05T16:40:00.000Z</published>
+    <updated>2021-05-05T16:40:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><div class="note red"><p>这里是一只小开Ting的个人博客，目前这里还什么都没有。</p></div><div class="tip success faa-pulse animated"><p>正在加紧建设中..</p>          </div><div class="tip success faa-wrench animated"><p>我晃啊晃晃晃晃。</p>          </div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="分类测试" scheme="categories/分类测试/"/>
+    
+    
+    <category term="标签测试" scheme="tags/标签测试/"/>
+    
+    <category term="欢迎" scheme="tags/欢迎/"/>
     
   </entry>
   
