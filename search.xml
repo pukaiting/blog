@@ -11,12 +11,16 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>村上春树</p>]]></content>
       
       
+      <categories>
+          
+          <category> 测试分类 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> 测试 </tag>
-            
-            <tag> 测试标签 </tag>
+            <tag> 测试， 测试标签 </tag>
             
         </tags>
       
