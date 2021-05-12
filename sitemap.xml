@@ -72,14 +72,14 @@
   </url>
   
   <url>
-    <loc>about/index.html</loc>
+    <loc>shuoshuo/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>shuoshuo/index.html</loc>
+    <loc>about/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
@@ -132,14 +132,14 @@
 
   
   <url>
-    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
+    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2021-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
