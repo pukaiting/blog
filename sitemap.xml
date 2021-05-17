@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/photo/index.html</loc>
+    <loc>photo/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/%E4%BA%91%E5%8D%97/index.html</loc>
+    <loc>%E7%9B%98%E9%BE%99%E6%B1%9F/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/%E7%9B%98%E9%BE%99%E6%B1%9F/index.html</loc>
+    <loc>%E4%BA%91%E5%8D%97/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/bbs/index.html</loc>
+    <loc>bbs/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/video/index.html</loc>
+    <loc>video/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/%E9%9A%8F%E6%8B%8D/index.html</loc>
+    <loc>%E9%9A%8F%E6%8B%8D/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/music/index.html</loc>
+    <loc>music/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/2021/05/13/7263074e/</loc>
+    <loc>2021/05/13/7263074e/</loc>
     
     <lastmod>2021-05-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/2021/05/11/7a6a6b5a/</loc>
+    <loc>2021/05/11/7a6a6b5a/</loc>
     
     <lastmod>2021-05-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/2021/05/06/812dcfd2/</loc>
+    <loc>2021/05/06/812dcfd2/</loc>
     
     <lastmod>2021-05-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/about/index.html</loc>
+    <loc>about/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/shuoshuo/index.html</loc>
+    <loc>shuoshuo/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/link/index.html</loc>
+    <loc>link/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/categories/index.html</loc>
+    <loc>categories/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/tags/index.html</loc>
+    <loc>tags/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
@@ -108,7 +108,7 @@
   
 
   <url>
-    <loc>http://pukaiting.github.io/buffifly</loc>
+    <loc>localhost:4000</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -116,14 +116,14 @@
 
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
+    <loc>tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/tags/%E6%AC%A2%E8%BF%8E/</loc>
+    <loc>tags/%E6%AC%A2%E8%BF%8E/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -132,14 +132,14 @@
 
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
+    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://pukaiting.github.io/buffifly/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
