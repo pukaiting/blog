@@ -3,11 +3,11 @@
   <title>一只小开Ting</title>
   
   <subtitle>心情杂货铺-欢迎</subtitle>
-  <link href="atom.xml" rel="self"/>
+  <link href="http://pukaiting.github.io/buffifly/atom.xml" rel="self"/>
   
-  <link href="localhost:4000/"/>
+  <link href="http://pukaiting.github.io/buffifly/"/>
   <updated>2021-05-12T16:14:04.000Z</updated>
-  <id>localhost:4000/</id>
+  <id>http://pukaiting.github.io/buffifly/</id>
   
   <author>
     <name>一只小开Ting</name>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>第三篇测试文章</title>
-    <link href="posts/7263074e.html"/>
-    <id>posts/7263074e.html</id>
+    <link href="http://pukaiting.github.io/buffifly/2021/05/13/7263074e/"/>
+    <id>http://pukaiting.github.io/buffifly/2021/05/13/7263074e/</id>
     <published>2021-05-12T16:14:04.000Z</published>
     <updated>2021-05-12T16:14:04.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>测试用</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/buffifly/assets/css/APlayer.min.css"><script src="/buffifly/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/buffifly/assets/js/Meting.min.js"></script><p>测试用</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/buffifly/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/buffifly/assets/js/A</summary>
       
     
     
@@ -38,51 +38,51 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="posts/7a6a6b5a.html"/>
-    <id>posts/7a6a6b5a.html</id>
+    <link href="http://pukaiting.github.io/buffifly/2021/05/11/7a6a6b5a/"/>
+    <id>http://pukaiting.github.io/buffifly/2021/05/11/7a6a6b5a/</id>
     <published>2021-05-11T07:31:24.000Z</published>
     <updated>2021-05-11T07:31:24.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>村上春树</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/buffifly/assets/css/APlayer.min.css"><script src="/buffifly/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/buffifly/assets/js/Meting.min.js"></script><p>村上春树</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/buffifly/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/buffifly/assets/js/A</summary>
       
     
     
     
-    <category term="测试分类" scheme="categories/测试分类/"/>
+    <category term="测试分类" scheme="http://pukaiting.github.io/buffifly/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="标签测试" scheme="tags/标签测试/"/>
+    <category term="标签测试" scheme="http://pukaiting.github.io/buffifly/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>你好，欢迎</title>
-    <link href="posts/812dcfd2.html"/>
-    <id>posts/812dcfd2.html</id>
+    <link href="http://pukaiting.github.io/buffifly/2021/05/06/812dcfd2/"/>
+    <id>http://pukaiting.github.io/buffifly/2021/05/06/812dcfd2/</id>
     <published>2021-05-05T16:40:00.000Z</published>
     <updated>2021-05-05T16:40:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><div class="note red"><p>这里是一只小开Ting的个人博客，目前这里还什么都没有。</p></div><div class="tip success faa-pulse animated"><p>正在加紧建设中..</p>          </div><div class="tip success faa-wrench animated"><p>我晃啊晃晃晃晃。</p>          </div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/buffifly/assets/css/APlayer.min.css"><script src="/buffifly/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/buffifly/assets/js/Meting.min.js"></script><div class="note red"><p>这里是一只小开Ting的个人博客，目前这里还什么都没有。</p></div><div class="tip success faa-pulse animated"><p>正在加紧建设中..</p>          </div><div class="tip success faa-wrench animated"><p>我晃啊晃晃晃晃。</p>          </div>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/buffifly/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/buffifly/assets/js/A</summary>
       
     
     
     
-    <category term="分类测试" scheme="categories/分类测试/"/>
+    <category term="分类测试" scheme="http://pukaiting.github.io/buffifly/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="标签测试" scheme="tags/标签测试/"/>
+    <category term="标签测试" scheme="http://pukaiting.github.io/buffifly/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
     
-    <category term="欢迎" scheme="tags/欢迎/"/>
+    <category term="欢迎" scheme="http://pukaiting.github.io/buffifly/tags/%E6%AC%A2%E8%BF%8E/"/>
     
   </entry>
   
