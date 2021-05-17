@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>posts/7263074e.html</loc>
+    <loc>posts/7263074e</loc>
     
     <lastmod>2021-05-12</lastmod>
     
   </url>
   
   <url>
-    <loc>posts/7a6a6b5a.html</loc>
+    <loc>posts/7a6a6b5a</loc>
     
     <lastmod>2021-05-11</lastmod>
     
@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>posts/812dcfd2.html</loc>
+    <loc>posts/812dcfd2</loc>
     
     <lastmod>2021-05-05</lastmod>
     
@@ -109,7 +109,7 @@
 
   <url>
     <loc>localhost:4000</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -117,14 +117,14 @@
   
   <url>
     <loc>tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>tags/%E6%AC%A2%E8%BF%8E/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -132,15 +132,15 @@
 
   
   <url>
-    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
