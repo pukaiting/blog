@@ -18,8 +18,8 @@
   
   <entry>
     <title>第三篇测试文章</title>
-    <link href="posts/7263074e"/>
-    <id>posts/7263074e</id>
+    <link href="posts/7263074e.html"/>
+    <id>posts/7263074e.html</id>
     <published>2021-05-12T16:14:04.000Z</published>
     <updated>2021-05-12T16:14:04.000Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="posts/7a6a6b5a"/>
-    <id>posts/7a6a6b5a</id>
+    <link href="posts/7a6a6b5a.html"/>
+    <id>posts/7a6a6b5a.html</id>
     <published>2021-05-11T07:31:24.000Z</published>
     <updated>2021-05-11T07:31:24.000Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>你好，欢迎</title>
-    <link href="posts/812dcfd2"/>
-    <id>posts/812dcfd2</id>
+    <link href="posts/812dcfd2.html"/>
+    <id>posts/812dcfd2.html</id>
     <published>2021-05-05T16:40:00.000Z</published>
     <updated>2021-05-05T16:40:00.000Z</updated>
     
