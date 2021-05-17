@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>photo/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/photo/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>%E7%9B%98%E9%BE%99%E6%B1%9F/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/%E7%9B%98%E9%BE%99%E6%B1%9F/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>%E4%BA%91%E5%8D%97/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/%E4%BA%91%E5%8D%97/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>bbs/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/video/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>video/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/bbs/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>%E9%9A%8F%E6%8B%8D/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/%E9%9A%8F%E6%8B%8D/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>music/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/music/index.html</loc>
     
     <lastmod>2021-05-17</lastmod>
     
   </url>
   
   <url>
-    <loc>2021/05/13/7263074e/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/2021/05/13/7263074e/</loc>
     
     <lastmod>2021-05-12</lastmod>
     
   </url>
   
   <url>
-    <loc>2021/05/11/7a6a6b5a/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/2021/05/11/7a6a6b5a/</loc>
     
     <lastmod>2021-05-11</lastmod>
     
   </url>
   
   <url>
-    <loc>2021/05/06/812dcfd2/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/2021/05/06/812dcfd2/</loc>
     
     <lastmod>2021-05-05</lastmod>
     
   </url>
   
   <url>
-    <loc>about/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/shuoshuo/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>shuoshuo/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/about/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>link/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/link/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>categories/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/categories/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
   </url>
   
   <url>
-    <loc>tags/index.html</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/tags/index.html</loc>
     
     <lastmod>2020-07-25</lastmod>
     
@@ -108,7 +108,7 @@
   
 
   <url>
-    <loc>localhost:4000</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -116,14 +116,14 @@
 
   
   <url>
-    <loc>tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>tags/%E6%AC%A2%E8%BF%8E/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/tags/%E6%AC%A2%E8%BF%8E/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -132,14 +132,14 @@
 
   
   <url>
-    <loc>categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
+    <loc>http://pukaiting.github.io/hexo-butterfly-magicv3.0.1/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
