@@ -8,7 +8,7 @@ Allow: /contact/
 Allow: /page/
 Allow: /tags/
 Allow: /medias/
-Allow: /tags/tags
+Allow: /tags/
 
 Disallow: /js/
 Disallow: /css/
